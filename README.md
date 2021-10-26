@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lkgatesman, a CompSci student at NYU.
-- 👀 I'm currently on a hunt for a full-time job anywhere on the globe!
+- 👀 I'm currently on a hunt for a full-time Software Engineering position anywhere on the globe!
 - 📫 How to reach me: lkg282@nyu.edu, laurenkgatesman@gmail.com, or 717-609-6926.
 
 <!---

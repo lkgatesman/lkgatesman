@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @lkgatesman, a CompSci student at NYU. (But you can call me Lauren!)
-- 👀 I'm currently on the hunt for a full-time Software Engineering position anywhere on the globe!
-- 💬 I speak English and Spanish, and am currently learning Korean. 
-- 💗 I like to play soccer, play the piano, go to concerts, play board games, read, listen to podcasts, and ... code. :)
+- Visit my website to learn more about me: lkgatesman.github.io
 - 📫 How to reach me: lkg282@nyu.edu, laurenkgatesman@gmail.com, or 717-609-6926.
 
 <!---

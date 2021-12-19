@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lkgatesman, a CompSci student at NYU. (But you can call me Lauren!)
+- 👋 Hi, I’m @lkgatesman, a CompSci student at NYU.
 - Visit my website to learn more about me: https://lkgatesman.github.io
 - 📫 How to reach me: lkg282@nyu.edu, laurenkgatesman@gmail.com, or 717-609-6926.
 

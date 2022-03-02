@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lkgatesman, a CompSci student at NYU.
-- Visit my website to learn more about me: https://lkgatesman.github.io
+- My website is currently under construction! Please check back in week for an update.
 - 📫 How to reach me: lkg282@nyu.edu, laurenkgatesman@gmail.com, or 717-609-6926.
 
 <!---

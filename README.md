@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @lkgatesman, a CompSci student at NYU.
-- My website: lkgatesman.github.io
-- 📫 How to reach me: lkg282@nyu.edu, laurenkgatesman@gmail.com, or 717-609-6926.
+- 👋 Hi, I’m @lkgatesman.
 
 <!---
 lkgatesman/lkgatesman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
